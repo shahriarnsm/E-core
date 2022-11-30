@@ -1,0 +1,32 @@
+.header{
+    background-image: url("./bg.jpg");
+    opacity: 0.9;
+    width:90%;
+    margin: auto;
+    height:70vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+
+.welcome{
+    font-weight: bold;
+}
+
+
+
+.Academy-btn {
+    background-color:rgb(255, 145, 216);
+    color:rgb(0, 0, 0);
+    padding:8px;
+    border:none;
+    border-radius: 15px;
+    margin-top:50px;
+}
+
+.Academy-btn:hover {
+    background-color: rgb(0, 0, 0);
+    color: white
+}
+
+
